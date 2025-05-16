@@ -14,4 +14,4 @@ Dieses Repository enthält sowohl Installationsanleitungen als auch Beispiele un
 
 ## 📄 Weitere Details
 
-Weiteres zur Objekterkennung und zu den Ergebnissen finden Sie in der [**PDF-Dokumentation**](docs/3d_detection_with_yolo.pdf).
+Weiteres zur Objekterkennung und zu den Ergebnissen finden Sie in der [**PDF-Dokumentation**](Doco/3d_detection_with_yolo.pdf).
